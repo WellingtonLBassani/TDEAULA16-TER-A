@@ -1,0 +1,14 @@
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\bin\Debug\net8.0\TDEDIA29.exe
+C:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\bin\Debug\net8.0\TDEDIA29.deps.json
+C:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\bin\Debug\net8.0\TDEDIA29.runtimeconfig.json
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\bin\Debug\net8.0\TDEDIA29.dll
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\bin\Debug\net8.0\TDEDIA29.pdb
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\obj\Debug\net8.0\TDEDIA29.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\obj\Debug\net8.0\TDEDIA29.AssemblyInfoInputs.cache
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\obj\Debug\net8.0\TDEDIA29.AssemblyInfo.cs
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\obj\Debug\net8.0\TDEDIA29.csproj.CoreCompileInputs.cache
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\obj\Debug\net8.0\TDEDIA29.dll
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\obj\Debug\net8.0\refint\TDEDIA29.dll
+c:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\obj\Debug\net8.0\TDEDIA29.pdb
+C:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\obj\Debug\net8.0\TDEDIA29.genruntimeconfig.cache
+C:\Users\Wellington\Desktop\LP TERÇA\TDEDIA29\obj\Debug\net8.0\ref\TDEDIA29.dll
